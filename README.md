@@ -1,3 +1,5 @@
+**Note:** The latest information on this project is [here](https://dlehenbauer.github.io/econopet/40-8096-A.html).
+
 ## PET Clone
 
 Open hardware clone of the Commodore CBM/PET using modern parts.
